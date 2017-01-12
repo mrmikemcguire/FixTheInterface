@@ -9,8 +9,4 @@ public class AddRunner implements Addition
 		{
 		return x + y;
 		}
-	public void printWord()
-		{
-		System.out.println("Mullen");
-		}
 	}
